@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """Functions that convert and classify temperatures.
 
 Usage:
